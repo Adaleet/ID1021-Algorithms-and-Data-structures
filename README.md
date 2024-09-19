@@ -1,4 +1,4 @@
-# ID1021 HT23 Algorithms and Data Structures 
+# ID1021 Algorithms and Data Structures 
 
 ## Welcome!
 This repository is currently a work in progress. In the meantime, feel free to explore the completed assignments from the previous year. These assignments cover fundamental concepts in:
